@@ -11,7 +11,7 @@ begin
    Put_Line ("-------");
    Put_Line ("Input:");
    Bubble_Sort_Algorithm.Print_Array (Arr);
-   Bubble_Sort_Algorithm.Sort(Arr);
+   Bubble_Sort_Algorithm.Sort (Arr);
    Put_Line ("Output:");
    Bubble_Sort_Algorithm.Print_Array (Arr);
 
@@ -20,7 +20,7 @@ begin
    Put_Line ("-------");
    Put_Line ("Input:");
    Bubble_Sort_Algorithm.Print_Array (Arr1);
-   Bubble_Sort_Algorithm.Sort(Arr1);
+   Bubble_Sort_Algorithm.Sort (Arr1);
    Put_Line ("Output:");
    Bubble_Sort_Algorithm.Print_Array (Arr1);
 
@@ -29,7 +29,7 @@ begin
    Put_Line ("-------");
    Put_Line ("Input:");
    Bubble_Sort_Algorithm.Print_Array (Arr2);
-   Bubble_Sort_Algorithm.Sort(Arr2);
+   Bubble_Sort_Algorithm.Sort (Arr2);
    Put_Line ("Output:");
    Bubble_Sort_Algorithm.Print_Array (Arr2);
 
